@@ -32,7 +32,7 @@ Para visualizar o projeto localmente, siga os passos abaixo:
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd travelgram
+    cd Travelgram
     ```
 3.  Instale as dependências:
     ```bash
@@ -49,9 +49,8 @@ O projeto estará disponível em `http://localhost:5173` (ou a porta indicada pe
 
 **jvcc-dev**
 
-  * **GitHub:** [Link para o seu perfil no GitHub](https://www.google.com/search?q=https://github.com/seu-usuario)
-  * **LinkedIn:** [Link para o seu perfil no LinkedIn]((https://www.linkedin.com/in/jo%C3%A3o-victor-cunha-de-castro-43b82225b/))
+  * **GitHub:** [jvcc-dev](https://www.google.com/search?q=https://github.com/jvcc-dev)
+  * **LinkedIn:** [João Victor Cunha de Castro](https://www.linkedin.com/in/jo%C3%A3o-victor-cunha-de-castro-43b82225b/)
 
 -----
-
 
