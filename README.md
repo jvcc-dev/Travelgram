@@ -6,7 +6,7 @@
 
 O **Travelgram** é uma aplicação web focada em viagens e exploração. Ele permite que os usuários compartilhem fotos e vídeos de suas aventuras, além de interagir com as postagens de outros membros da comunidade por meio de curtidas e comentários.
 
-Este projeto foi desenvolvido como um exercício prático do meu curso na **Rocketseat**, servindo para aplicar e consolidar meus conhecimentos em desenvolvimento web.
+Este projeto foi desenvolvido como um exercício prático do curso na **Rocketseat**, servindo para aplicar e consolidar meus conhecimentos em desenvolvimento web.
 
 ## 🚀 Tecnologias Utilizadas
 
