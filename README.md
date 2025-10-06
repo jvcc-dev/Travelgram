@@ -2,6 +2,9 @@
 
 # Travelgram ✈️
 
+<img width="1876" height="968" alt="image" src="https://github.com/user-attachments/assets/3298a443-c8dd-495e-a6b6-c76027050d4a" />
+
+
 ## Sobre o Projeto
 
 O **Travelgram** é uma aplicação web focada em viagens e exploração. Ele permite que os usuários compartilhem fotos e vídeos de suas aventuras, além de interagir com as postagens de outros membros da comunidade por meio de curtidas e comentários.
@@ -9,7 +12,6 @@ O **Travelgram** é uma aplicação web focada em viagens e exploração. Ele pe
 Este projeto foi desenvolvido como um exercício prático do curso na **Rocketseat**, servindo para aplicar e consolidar meus conhecimentos em desenvolvimento web.
 
 
-<img width="1876" height="968" alt="image" src="https://github.com/user-attachments/assets/3298a443-c8dd-495e-a6b6-c76027050d4a" />
 
 
 
